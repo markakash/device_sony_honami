@@ -15,3 +15,4 @@
 #
 
 add_lunch_combo aosp_c6903-userdebug
+add_lunch_combo omni_honami-userdebug
