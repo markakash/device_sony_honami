@@ -168,7 +168,7 @@
 			<mitigation name="usb" level="1" />
 			<mitigation name="dc" level="1" />
 			<mitigation name="gpu" level="off" />
-			<mitigation name="backlight" level="1" />
+			<mitigation name="backlight" level="off" />
 			<mitigation name="modem" level="off" />
 		</threshold>
 		<threshold trigger="540" clear="530">
@@ -177,7 +177,7 @@
 			<mitigation name="usb" level="2" />
 			<mitigation name="dc" level="2" />
 			<mitigation name="gpu" level="off" />
-			<mitigation name="backlight" level="1" />
+			<mitigation name="backlight" level="off" />
 			<mitigation name="modem" level="off" />
 		</threshold>
 		<threshold trigger="550" clear="540">
@@ -186,69 +186,69 @@
 			<mitigation name="usb" level="3" />
 			<mitigation name="dc" level="3" />
 			<mitigation name="gpu" level="off" />
-			<mitigation name="backlight" level="2" />
+			<mitigation name="backlight" level="off" />
 			<mitigation name="modem" level="off" />
 		</threshold>
 		<threshold trigger="560" clear="545">
-			<mitigation name="cpu" level="2" />
+			<mitigation name="cpu" level="1" />
 			<mitigation name="charging" level="7" />
 			<mitigation name="usb" level="3" />
 			<mitigation name="dc" level="3" />
 			<mitigation name="gpu" level="off" />
-			<mitigation name="backlight" level="2" />
+			<mitigation name="backlight" level="off" />
 			<mitigation name="modem" level="off" />
 		</threshold>
 		<threshold trigger="565" clear="550">
-			<mitigation name="cpu" level="5" />
+			<mitigation name="cpu" level="3" />
 			<mitigation name="charging" level="7" />
 			<mitigation name="usb" level="3" />
 			<mitigation name="dc" level="3" />
 			<mitigation name="gpu" level="off" />
-			<mitigation name="backlight" level="2" />
+			<mitigation name="backlight" level="off" />
 			<mitigation name="modem" level="off" />
 		</threshold>
 		<threshold trigger="570" clear="555">
-			<mitigation name="cpu" level="7" />
+			<mitigation name="cpu" level="4" />
 			<mitigation name="charging" level="7" />
 			<mitigation name="usb" level="4" />
 			<mitigation name="dc" level="4" />
 			<mitigation name="gpu" level="off" />
-			<mitigation name="backlight" level="3" />
+			<mitigation name="backlight" level="off" />
 			<mitigation name="modem" level="off" />
 		</threshold>
 		<threshold trigger="575" clear="560">
-			<mitigation name="cpu" level="9" />
+			<mitigation name="cpu" level="5" />
 			<mitigation name="charging" level="7" />
 			<mitigation name="usb" level="4" />
 			<mitigation name="dc" level="4" />
 			<mitigation name="gpu" level="off" />
-			<mitigation name="backlight" level="3" />
+			<mitigation name="backlight" level="off" />
 			<mitigation name="modem" level="off" />
 		</threshold>
 		<threshold trigger="580" clear="565">
-			<mitigation name="cpu" level="10" />
+			<mitigation name="cpu" level="6" />
 			<mitigation name="charging" level="7" />
 			<mitigation name="dc" level="5" />
 			<mitigation name="usb" level="5" />
-			<mitigation name="backlight" level="4" />
+			<mitigation name="backlight" level="1" />
 			<mitigation name="gpu" level="3" />
 			<mitigation name="modem" level="1" />
 		</threshold>
 		<threshold trigger="585" clear="580">
-			<mitigation name="cpu" level="11" />
+			<mitigation name="cpu" level="7" />
 			<mitigation name="charging" level="7" />
 			<mitigation name="dc" level="5" />
 			<mitigation name="usb" level="5" />
-			<mitigation name="backlight" level="4" />
+			<mitigation name="backlight" level="1" />
 			<mitigation name="gpu" level="3" />
 			<mitigation name="modem" level="1" />
 		</threshold>
 		<threshold trigger="700" clear="600">
-			<mitigation name="cpu" level="12" />
+			<mitigation name="cpu" level="11" />
 			<mitigation name="charging" level="7" />
 			<mitigation name="dc" level="5" />
 			<mitigation name="usb" level="5" />
-			<mitigation name="backlight" level="4" />
+			<mitigation name="backlight" level="2" />
 			<mitigation name="gpu" level="3" />
 			<mitigation name="modem" level="1" />
 		</threshold>
@@ -263,7 +263,7 @@
 			<mitigation name="charging" level="off" />
 		</threshold>
 		<threshold trigger="420" clear="415">
-			<mitigation name="charging" level="3" />
+			<mitigation name="charging" level="2" />
 		</threshold>
 		<threshold trigger="670" clear="450">
 			<mitigation name="charging" level="10" />
