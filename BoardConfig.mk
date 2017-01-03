@@ -18,3 +18,4 @@ include device/sony/rhine-common/PlatformConfig2.mk
 TARGET_BOOTLOADER_BOARD_NAME := C6903
 
 BOARD_KERNEL_CMDLINE += androidboot.hardware=honami
+TARGET_OTA_ASSERT_DEVICE := C6902,C6903,C6906,C6943,z1,honami
