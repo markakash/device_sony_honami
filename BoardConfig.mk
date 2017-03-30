@@ -26,6 +26,7 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/honami/include
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/sony/honami/bluetooth
 
 # Kernel properties
+TARGET_KERNEL_SOURCE := kernel/sony/msm8974
 TARGET_KERNEL_CONFIG := cm_rhine_honami_defconfig
 
 # Partition information
