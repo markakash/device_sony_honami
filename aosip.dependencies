@@ -1,5 +1,11 @@
 [
-  {
+  {
+     "remote": "github",
+     "repository": "SonyAosp/device_sony_rhine ",
+     "target_path": "device/sony/rhine",
+     "branch": "android-7.1"
+  },
+  {
      "remote": "github",
      "repository": "SonyAosp/platform_hardware_qcom_camera",
      "target_path": "hardware/sony/camera",
