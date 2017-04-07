@@ -15,9 +15,6 @@
 # inherit from the common rhine definitions
 include device/sony/rhine-common/BoardConfigCommon.mk
 
-# inherit from the proprietary version
-#-include vendor/sony/honami/BoardConfigVendor.mk
-
 # Assert
 TARGET_OTA_ASSERT_DEVICE := C6902,C6903,C6906,C6943,honami
 
