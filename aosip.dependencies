@@ -15,7 +15,7 @@
      "remote": "github",
      "repository": "LineageOS/android_device_sony_common",
      "target_path": "device/sony/common",
-     "branch": "cm-14."
+     "branch": "cm-14.1"
   },
   { "remote": "github",
      "repository": "sonyxperiadev/vendor-qcom-opensource-dataservices",
@@ -70,29 +70,31 @@
      "target_path": "vendor/sony",
      "branch": "android-7.0"
   },
-{
+  {
      "remote": "github",
      "repository": "sonyxperiadev/vendor-qcom-opensource-dataservices",
      "target_path": "hardware/sony/dataservices",
      "branch": "master"
-  }{
+  },
+  {
      "remote": "github",
      "repository": "sonyxperiadev/vendor-qcom-opensource-location",
      "target_path": "hardware/sony/location",
      "branch": "master"
-  }{
+  },
+  {
      "remote": "github",
      "repository": "SonyAosp/vendor_broadcom",
      "target_path": "vendor/broadcom",
      "branch": "android-7.0"
-  }
-  {
+  },
+  {
      "remote": "github",
      "repository": "SonyAosp/vendor_nxp",
      "target_path": "vendor/nxp",
      "branch": "android-7.0"
-  }
- {
+  },
+  {
      "remote": "github",
      "repository": "SonyLOS/android_device_sony_rhine-common",
      "target_path": "device/sony/rhine-common",
